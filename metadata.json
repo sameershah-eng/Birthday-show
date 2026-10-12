@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Moments",
+  "description": "Premium collaborative birthday show creator, live projector controller, media timeline studio, and family memory vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
